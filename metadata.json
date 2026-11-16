@@ -1,0 +1,8 @@
+{
+  "name": "Esther Cruz Velásquez — Alta Perfumería",
+  "description": "Boutique exclusiva de perfumería de autor, fragancias de lujo, elixires concentrados y esencias importadas en Juliaca y todo el Perú.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
